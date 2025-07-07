@@ -1,0 +1,1 @@
+CREATE TABLE Customer(ID int,Name Varchar(50),Product Char(100),Price numeric);
